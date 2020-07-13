@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <table>
+  <table border="2">
     <tr>
       <th>#</th>
       <th>Gambar</th>
